@@ -1,2 +1,3 @@
-#!/usr/bin/pyhon3
-print("pyhton am here for you")
+#!/usr/bin/python3
+print("hello script")
+
